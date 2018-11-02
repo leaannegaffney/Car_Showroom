@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CarShowroom
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CarShowroom\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sizeIn
+comment1.target=CarShowroom(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=carIn
+comment4.target=boolean\ addCar(Car)
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=manufacturerIn\ modelIn\ engineSizeIn
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getManufacturer()
+comment3.params=manufacturerIn
+comment3.target=void\ setManufacturer(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=modelIn
+comment5.target=void\ setModel(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getEngineSize()
+comment7.params=engineSizeIn
+comment7.target=void\ setEngineSize(java.lang.String)
+numComments=8
